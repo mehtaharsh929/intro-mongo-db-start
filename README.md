@@ -1,5 +1,5 @@
 # Intro to MongoDB
-> Scott Moss & Frontend Masters
+> Harsh Mehta
 
 - [Resources](#resources)
 - [Course](#course)
